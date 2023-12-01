@@ -23,7 +23,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=net,laravel)
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)
 
 ![My Skills](https://skillicons.dev/icons?i=js,jquery)
 
