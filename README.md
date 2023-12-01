@@ -15,7 +15,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/Sepehr-Aghdasi)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rasoolfetrati)
 
 </p>
 
